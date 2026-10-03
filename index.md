@@ -1,6 +1,6 @@
 # IntervalWorkout Privacy Policy
 
-**Effective date:** September 24, 2026
+**Effective date:** October 3, 2026
 
 IntervalWorkout ("the app") is an interval timer for workouts. This policy explains what
 information the app handles and what choices you have. It applies to the app on Android.
@@ -33,8 +33,9 @@ The app shows banner ads on some screens, provided by Google AdMob. Ads are neve
 workout is running.
 
 To show and measure ads, and to prevent fraud and abuse, Google and its partners may collect and
-use information from your device, such as your advertising ID, IP address, device and app
-information, and how you interact with ads. Where you have given consent, this may include
+use information from your device, such as your advertising ID, IP address (used to estimate
+your general location), device and app information, diagnostic and performance information, and
+how you interact with ads. Where you have given consent, this may include
 personalizing the ads you see. We do not receive this information.
 
 Learn how Google handles it:
